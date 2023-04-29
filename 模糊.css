@@ -1,0 +1,29 @@
+img {
+
+    -webkit-filter: blur(4px);
+    
+    filter: blur(4px);
+    
+    margin-top: 20px;
+    
+    }
+    
+    h1 {
+    
+    color:red;
+    
+    }
+    
+    .backgr-text {
+    
+    position: absolute;
+    
+    top: 20%;
+    
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+    
+    text-align: center;
+    
+    }
